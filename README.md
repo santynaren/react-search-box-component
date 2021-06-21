@@ -42,23 +42,22 @@ import {Searchbox} from 'react-search-box-component'
 
 import { useState } from "react";
 import "./App.css";
-import {Searchbox} from 'react-search-box-component'
+import { Searchbox } from "react-search-box-component";
 
 function App() {
-	const [view, setView] = useState("");
-  const [delay,setDelay] = useState(0);
-	return (
-		<div className='App'>
-		
-      <Searchbox delay={500} setVal={setDelay} placeholder="type delay in ms" />
-			<br />
-
-			<span>{view}</span>
-		</div>
-	);
+  const [view, setView] = useState("");
+  const [delay, setDelay] = useState(0);
+  return (
+    <div className="App">
+      <Searchbox delay={500} setVal={setDelay} placeholder="Search ..." />
+      <br />
+      <span>{view}</span>
+    </div>
+  );
 }
 
 export default App;
+
 
 ```
 
