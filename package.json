@@ -1,0 +1,27 @@
+{
+  "name": "react-search-box-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santynaren/react-search-box-component.git"
+  },
+  "author": "Narendra Santhosh N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santynaren/react-search-box-component/issues"
+  },
+  "homepage": "https://github.com/santynaren/react-search-box-component#readme",
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
