@@ -1,6 +1,6 @@
 {
   "name": "react-search-box-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple react-search-box for reducing render and getiing exact value",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
