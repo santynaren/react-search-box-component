@@ -15,7 +15,7 @@ npm i react-search-box-component
 
 ### Install via yarn
 ```bash
-npm i react-search-box-component
+yarn add react-search-box-component
 ```
 
 ### Docs
