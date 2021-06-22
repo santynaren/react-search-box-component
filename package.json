@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/santynaren/react-search-box-component.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Narendra Santhosh N",
   "license": "ISC",
   "bugs": {
